@@ -224,5 +224,4 @@ MIT License — ayrıntılar için [LICENSE](LICENSE) dosyasına bakın.
 ---
 
 ## Ekran görüntüsü
-
-> İsteğe bağlı: `docs/screenshot.png` ekleyerek README’ye görsel koyabilirsiniz.
+<img width="1365" height="715" alt="Image" src="https://github.com/user-attachments/assets/5401047b-d4dd-4099-9d50-8293760e936e" />
