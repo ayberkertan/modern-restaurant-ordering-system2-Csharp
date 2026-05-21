@@ -416,6 +416,4 @@ MIT License — see [LICENSE](LICENSE).
 
 ## Ekran görüntüsü / Screenshot
 
-> İsteğe bağlı / Optional: add `docs/screenshot.png` and embed:
->
-> `![Screenshot](docs/screenshot.png)`
+<img width="1365" height="715" alt="Image" src="https://github.com/user-attachments/assets/4c2988c1-3d3a-4a9b-8272-a9b0efd8549e" />
