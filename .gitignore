@@ -1,0 +1,27 @@
+# Derleme çıktıları
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet / derleme önbelleği
+*.nuget.props
+*.nuget.targets
+project.lock.json
+*.cache
+
+# LocalDB veritabanı dosyaları (yerel makineye özel)
+*.mdf
+*.ldf
+*.ndf
+
+# Windows / IDE geçici
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
