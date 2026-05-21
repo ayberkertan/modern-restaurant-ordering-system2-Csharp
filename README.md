@@ -217,28 +217,6 @@ Koyu restoran teması (altın/turuncu vurgular), duruma göre adisyon satır ren
 
 ---
 
-## GitHub’a yüklemeden önce
-
-Repoya **dahil edilmemesi** gerekenler (`.gitignore` ile hariç tutun):
-
-```
-bin/
-obj/
-.vs/
-*.user
-*.suo
-*.mdf
-*.ldf
-```
-
-**Dahil edilmesi gerekenler:** kaynak kod (`.cs`), `.csproj`, `.sln`, `App.config`, `README.md`.
-
-> **Not:** Eski dokümantasyonda geçen `RestoranDB.sql` dosyası bu repoda bulunmuyor; şema tamamen `DbHelper.VeritabaniOlustur()` ile oluşturuluyor.
-
-Repoda kök dizinde `.gitignore` dosyası mevcuttur.
-
----
-
 ## Lisans
 
 MIT License — ayrıntılar için [LICENSE](LICENSE) dosyasına bakın.
